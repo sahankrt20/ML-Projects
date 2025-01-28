@@ -1,3 +1,3 @@
 # Project
 ## Overview
-It is the ongoing project. Stay tuned with me
+This project is created by traditional using ML algorithm.
